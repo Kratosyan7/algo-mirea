@@ -1,0 +1,20 @@
+495;Moskva;Rossiya
+812;Sankt-Peterburg;Rossiya
+383;Novosibirsk;Rossiya
+343;Ekaterinburg;Rossiya
+843;Kazan;Rossiya
+831;Nizhniy Novgorod;Rossiya
+351;Chelyabinsk;Rossiya
+846;Samara;Rossiya
+863;Rostov-na-Donu;Rossiya
+347;Ufa;Rossiya
+913;Krasnoyarsk;Rossiya
+862;Sochi;Rossiya
+423;Vladivostok;Rossiya
+375;Minsk;Belarus
+374;Erevan;Armeniya
+994;Baku;Azerbaydzhan
+996;Bishkek;Kyrgyzstan
+998;Tashkent;Uzbekistan
+371;Riga;Latviya
+372;Tallin;Estoniya

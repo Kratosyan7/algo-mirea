@@ -1,0 +1,22 @@
+
+=== ЗАДАНИЕ 3. Регулярные выражения: имена файлов ===
+  текст: otchet1.txt, doc2.doc, otchet.txt, obzor7.txt, ob3.txt, Otchet9.txt, oq.txt, otchet12.txt, other5.dat, o_file4.txt
+  заданная буква: 'o'
+  регулярное выражение: [Oo][A-Za-z0-9_-]*[0-9]\.txt
+
+  найдено имён: 6
+    otchet1.txt
+    obzor7.txt
+    ob3.txt
+    Otchet9.txt
+    otchet12.txt
+    o_file4.txt
+
+  Проверка отдельных имён (regex_match):
+    otchet1.txt    -> соответствует
+    otchet.txt     -> не соответствует
+    doc2.txt       -> не соответствует
+    obzor7.doc     -> не соответствует
+    O12.txt        -> соответствует
+    o-file9.txt    -> соответствует
+    o9.txtx        -> не соответствует
